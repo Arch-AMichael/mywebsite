@@ -1,4 +1,3 @@
----
 
 ## **IT Portfolio Website**
 
@@ -13,7 +12,7 @@ The website is structured with the following key sections:
 
 This project was part of my college course final and represents my growth and learning throughout the course.
 
-
+---
 ### **My Journey**
 
 When I started this course, I had minimal knowledge of web development and IT fundamentals. Over time, I developed the skills and confidence to create a fully functional, professional website. Here's a summary of my journey:

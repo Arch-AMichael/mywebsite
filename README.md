@@ -81,7 +81,7 @@ contact.html                # Contact page
 ---
 
 ### **How to View the Website**
-You can view the live website hosted on **GitHub Pages** [here](https://yourusername.github.io/your-repository-name).
+You can view the live website hosted on **GitHub Pages** [here](https://arch-amichael.github.io/mywebsite/).
 
 ---
 

@@ -1,0 +1,23 @@
+### Reflection Page
+
+### **Which AI tool(s) did you use?**
+
+I used OpenAI's ChatGPT-4o to assist me throughout the process of building and deploying my website on GitHub Pages.
+
+### **How did it help you?**
+
+The AI helped in multiple ways:
+
+- It provided step-by-step instructions for uploading my project files to GitHub, using GitHub Desktop, and deploying the website via GitHub Pages.
+- It clarified technical errors, such as fixing YAML syntax issues in my `README.md` file, and explained how to properly organize files for deployment.
+- It guided me on selecting the correct deployment folder (`/ (root)` vs. `/docs`) and ensured I understood how GitHub Pages works.
+
+### **What challenges did you encounter?**
+
+- Initially, I struggled to upload my project folder to GitHub correctly because the web interface only allowed file uploads, not folders.
+- Understanding how GitHub Pages selects the folder for deployment was confusing at first, especially with the `/docs` option.
+- Debugging the YAML error in the `README.md` file required additional help to understand the issue and fix it.
+
+### **What did you learn overall about using AI for coding?**
+
+Using AI for coding is a powerful way to troubleshoot, learn, and navigate new tools. It simplifies complex tasks by breaking them into manageable steps and provides explanations that are easier to follow than traditional documentation. However, I also learned the importance of verifying AI-generated instructions and applying them thoughtfully to my specific project.

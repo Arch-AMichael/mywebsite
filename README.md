@@ -102,5 +102,3 @@ Moving forward, I aim to:
 - Special thanks to [resources like MDN Web Docs](https://developer.mozilla.org/) and [W3Schools](https://www.w3schools.com/) for being invaluable references during development.
 
 ---
-
-Feel free to use and customize this **README.md** for your project submission. If you need help with specific sections, let me know! 😊

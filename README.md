@@ -13,7 +13,6 @@ The website is structured with the following key sections:
 
 This project was part of my college course final and represents my growth and learning throughout the course.
 
----
 
 ### **My Journey**
 
